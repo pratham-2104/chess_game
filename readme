@@ -1,0 +1,3 @@
+1) to active environment:- source venv/bin/activate
+
+2) to run code:- python chess_gui.py
